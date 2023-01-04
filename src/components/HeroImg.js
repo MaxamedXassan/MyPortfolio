@@ -25,3 +25,5 @@ const HeroImg = () => {
 }
 
 export default HeroImg;
+
+// remote origin already exists
