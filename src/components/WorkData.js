@@ -24,3 +24,5 @@ const ProjectData = [
         view: "https://github.com/MaxamedXassan"
     },
 ]
+
+export default ProjectData;
